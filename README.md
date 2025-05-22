@@ -1,4 +1,4 @@
-# 📘 Deep Learning-Driven Prediction of Microstructure Evolution
+# Deep Learning-Driven Prediction of Microstructure Evolution
 
 This repository provides the complete implementation of the paper:
 
@@ -10,13 +10,13 @@ This repository provides the complete implementation of the paper:
 
 ## 📌 Overview
 
-This project demonstrates a deep generative modeling approach to predict and visualize the time evolution of microstructures in binary alloys across different composition values. It leverages:
+This paper demonstrates a deep generative modeling approach to predict and visualize the time evolution of microstructures in binary alloys across different composition values. It leverages:
 
 - A **Conditional Variational Autoencoder (CVAE)** to model the latent space of microstructure images.
 - **Cubic Spline Interpolation** to generate intermediate phase labels.
 - **Spherical Linear Interpolation (SLERP)** to ensure smooth morphological transitions between microstructures.
 
-The model replicates the temporal and spatial evolution of microstructures as observed in traditional phase-field simulations, but at a fraction of the computational cost.
+The model replicates the temporal and spatial evolution of microstructures as observed in traditional phase-field simulations, but at lesser computational cost.
 
 ---
 
@@ -28,19 +28,18 @@ The model replicates the temporal and spatial evolution of microstructures as ob
 ├── model_prediction.ipynb      # Generating intermediate microstructures using cubic and SLERP interpolation
 ├── model_analysis.ipynb        # Autocorrelation and timestep vs. average area comparison
 ├── utils.py                    # Utility functions used across notebooks
-├── data/                       # (Optional) Place for data or instructions on how to obtain it
 └── README.md                   # This file
 ```
 
 ---
 
-## 🧠 Key Techniques
+## Key Techniques
 
 - **Conditional VAE** for learning latent space representations of microstructures.
 - **Cubic Spline Interpolation** for generating interpolated phase labels between known composition values.
 - **SLERP** in the latent space for producing temporally smooth microstructure evolution sequences.
 - **Morphological Validation** using:
-  - Timestep vs. average white area plots
+  - Timestep vs. average area plots
   - 2-point autocorrelation function comparison
 
 ---
@@ -60,19 +59,14 @@ The model replicates the temporal and spatial evolution of microstructures as ob
    cd <repo-name>
    ```
 
-2. **Install required dependencies**:
-   ```bash
-   pip install -r requirements.txt  # if you provide one
-   ```
-
-3. **Run notebooks in order**:
+2. **Run notebooks in order**:
    - `model_training.ipynb` → Train the CVAE
    - `model_prediction.ipynb` → Generate new microstructures
    - `model_analysis.ipynb` → Visualize and validate results
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use this work, please cite:
 
