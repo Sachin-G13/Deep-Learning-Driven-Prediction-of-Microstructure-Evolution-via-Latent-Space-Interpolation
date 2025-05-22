@@ -4,11 +4,11 @@ This repository provides the complete implementation of the paper:
 
 **_Deep Learning-Driven Prediction of Microstructure Evolution via Latent Space Interpolation_**  
 *Sachin Gaikwad, Thejas Kasilingam, Owais Ahmad, Rajdip Mukherjee, Somnath Bhowmick*  
-📅 *Dated: May 22, 2025*
+*Dated: May 22, 2025*
 
 ---
 
-## 📌 Overview
+## Overview
 
 This paper demonstrates a deep generative modeling approach to predict and visualize the time evolution of microstructures in binary alloys across different composition values. It leverages:
 
@@ -20,7 +20,7 @@ The model replicates the temporal and spatial evolution of microstructures as ob
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -44,14 +44,14 @@ The model replicates the temporal and spatial evolution of microstructures as ob
 
 ---
 
-## 🔗 Downloads
+## Downloads
 
-- 📦 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1jFUpb0h06S6UcLUq5QBRcL4o7xlYnep2/view?usp=sharing)
-- 💾 [Download Pretrained CVAE Weights](https://drive.google.com/file/d/18J1Z4myVTj0tv3vE1LjYe2OusPseJurP/view?usp=sharing)
+- [Download Dataset (Google Drive)](https://drive.google.com/file/d/1jFUpb0h06S6UcLUq5QBRcL4o7xlYnep2/view?usp=sharing)
+- [Download Pretrained CVAE Weights](https://drive.google.com/file/d/18J1Z4myVTj0tv3vE1LjYe2OusPseJurP/view?usp=sharing)
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone this repository**:
    ```bash
