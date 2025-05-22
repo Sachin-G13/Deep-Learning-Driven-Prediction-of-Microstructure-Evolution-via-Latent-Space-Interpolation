@@ -76,6 +76,6 @@ If you use this work, please cite:
 
 ---
 
-## 📧 Contact
+## Contact
 
 - Somnath Bhowmick – *bsomnath@iitk.ac.in* (corresponding author)
