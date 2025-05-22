@@ -16,7 +16,7 @@ This paper demonstrates a deep generative modeling approach to predict and visua
 - **Cubic Spline Interpolation** to generate intermediate phase labels.
 - **Spherical Linear Interpolation (SLERP)** to ensure smooth morphological transitions between microstructures.
 
-The model replicates the temporal and spatial evolution of microstructures as observed in traditional phase-field simulations, but at lesser computational cost.
+The model replicates the temporal and spatial evolution of microstructures as observed in traditional phase-field simulations, but at a lesser computational cost.
 
 ---
 
