@@ -71,7 +71,7 @@ If you use this work, please cite:
 
 > **Gaikwad, S., Kasilingam, T., Ahmad, O., Mukherjee, R., & Bhowmick, S. (2025)**.  
 > Deep Learning-Driven Prediction of Microstructure Evolution via Latent Space Interpolation.  
-> _Indian Institute of Technology (BHU) Varanasi & IIT Kanpur._
+> _IIT (BHU) Varanasi & IIT Kanpur._
 
 ---
 
