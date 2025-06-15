@@ -65,9 +65,9 @@ The model replicates the temporal and spatial evolution of microstructures as ob
 
 ---
 
-## Citation
+## How to cite this (under review)
 
-If you use this work, please cite:
+If you're referencing this manuscript in its current under-review form, please use:
 
 > **Sachin Gaikwad¹, Thejas Kasilingam², Owais Ahmad², Rajdip Mukherjee², & Somnath Bhowmick² (2025)**. 
 > Deep Learning-Driven Prediction of Microstructure Evolution via Latent Space Interpolation.  
