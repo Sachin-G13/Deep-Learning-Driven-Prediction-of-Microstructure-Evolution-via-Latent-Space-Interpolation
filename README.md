@@ -3,7 +3,8 @@
 This repository provides the complete implementation of the paper:
 
 **_Deep Learning-Driven Prediction of Microstructure Evolution via Latent Space Interpolation_**  
-*Sachin Gaikwad, Thejas Kasilingam, Owais Ahmad, Rajdip Mukherjee, Somnath Bhowmick*  
+*Sachin Gaikwad¹, Thejas Kasilingam², Owais Ahmad², Rajdip Mukherjee², Somnath Bhowmick²*  
+_¹IIT (BHU) Varanasi & ²IIT Kanpur._
 
 ---
 
