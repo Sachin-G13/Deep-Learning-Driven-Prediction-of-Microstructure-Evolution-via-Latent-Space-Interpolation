@@ -6,7 +6,7 @@ This repository provides the complete implementation of the paper:
 *Sachin Gaikwad¹, Thejas Kasilingam², Owais Ahmad², Rajdip Mukherjee², Somnath Bhowmick²*  
 _¹IIT (BHU) Varanasi & ²IIT Kanpur._
 
-Paper link: https://arxiv.org/abs/2508.01822
+DOI: https://doi.org/10.1103/5ngk-4v9j
 
 ---
 
